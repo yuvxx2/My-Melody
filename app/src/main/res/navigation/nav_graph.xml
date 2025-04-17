@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/navigation_categories"
-        android:name="com.example.mymelody.CategoriesFragment"
+        android:name="com.example.melodyflashcards.ui.home.CategoriesFragment"
         android:label="Categories"
         tools:layout="@layout/fragment_categories">
         <action
@@ -17,13 +17,13 @@
 
     <fragment
         android:id="@+id/navigation_create"
-        android:name="com.example.mymelody.CreateFlashcardFragment"
+        android:name="com.example.melodyflashcards.ui.create.CreateFlashcardFragment"
         android:label="Create"
         tools:layout="@layout/fragment_create_flashcard" />
 
     <fragment
         android:id="@+id/navigation_study"
-        android:name="com.example.mymelody.StudyFlashcardsFragment"
+        android:name="com.example.melodyflashcards.ui.study.StudyFlashcardsFragment"
         android:label="Study"
         tools:layout="@layout/fragment_study_flashcards">
         <argument
