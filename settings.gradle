@@ -1,0 +1,2 @@
+rootProject.name = "My Melody Flashcards"
+include ':app'
