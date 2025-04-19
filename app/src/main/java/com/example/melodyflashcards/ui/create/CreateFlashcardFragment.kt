@@ -8,7 +8,7 @@ import android.widget.ArrayAdapter
 import android.widget.Toast
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import androidx.lifecycle.lifecycleScope
+import androidx.lifecycle.viewModelScope
 import com.example.melodyflashcards.data.Flashcard
 import com.example.melodyflashcards.data.FlashcardDatabase
 import com.example.melodyflashcards.data.FlashcardRepository
@@ -66,8 +66,8 @@ class CreateFlashcardFragment : Fragment() {
 
     private fun saveFlashcard() {
         try {
-            val front = binding.frontEditText.text.toString().trim()
-            val back = binding.backEditText.text.toString().trim()
+            val front = binding.frontInput.text.toString().trim()
+            val back = binding.backInput.text.toString().trim()
 
             if (!isValidInput(front, back)) {
                 return
@@ -81,16 +81,10 @@ class CreateFlashcardFragment : Fragment() {
                 category = category
             )
 
-            lifecycleScope.launch {
-                try {
-                    createViewModel.insertFlashcard(flashcard)
-                    Toast.makeText(requireContext(), "Flashcard saved!", Toast.LENGTH_SHORT).show()
-                    clearFields()
-                } catch (e: Exception) {
-                    Toast.makeText(requireContext(), "Error saving flashcard", Toast.LENGTH_SHORT).show()
-                }
-            }
-        } catch (e: Exception) {
+            createViewModel.insertFlashcard(flashcard)
+            Toast.makeText(requireContext(), "Flashcard saved!", Toast.LENGTH_SHORT).show()
+            clearFields()
+        } catch (_: Exception) {
             Toast.makeText(requireContext(), "Error creating flashcard", Toast.LENGTH_SHORT).show()
         }
     }
@@ -114,16 +108,16 @@ class CreateFlashcardFragment : Fragment() {
     }
 
     private fun clearFields() {
-        binding.frontEditText.text.clear()
-        binding.backEditText.text.clear()
+        binding.frontInput.text?.clear()
+        binding.backInput.text?.clear()
         binding.categorySpinner.setSelection(0)
     }
 
     override fun onSaveInstanceState(outState: Bundle) {
         super.onSaveInstanceState(outState)
         _binding?.let { binding ->
-            outState.putString(KEY_FRONT_TEXT, binding.frontEditText.text.toString())
-            outState.putString(KEY_BACK_TEXT, binding.backEditText.text.toString())
+            outState.putString(KEY_FRONT_TEXT, binding.frontInput.text.toString())
+            outState.putString(KEY_BACK_TEXT, binding.backInput.text.toString())
             outState.putInt(KEY_SPINNER_POSITION, binding.categorySpinner.selectedItemPosition)
         }
     }
@@ -132,8 +126,8 @@ class CreateFlashcardFragment : Fragment() {
         super.onViewStateRestored(savedInstanceState)
         savedInstanceState?.let { bundle ->
             _binding?.let { binding ->
-                binding.frontEditText.setText(bundle.getString(KEY_FRONT_TEXT, ""))
-                binding.backEditText.setText(bundle.getString(KEY_BACK_TEXT, ""))
+                binding.frontInput.setText(bundle.getString(KEY_FRONT_TEXT, ""))
+                binding.backInput.setText(bundle.getString(KEY_BACK_TEXT, ""))
                 binding.categorySpinner.setSelection(bundle.getInt(KEY_SPINNER_POSITION, 0))
             }
         }
@@ -155,8 +149,10 @@ class CreateFlashcardFragment : Fragment() {
 class CreateFlashcardViewModel(private val repository: FlashcardRepository) : androidx.lifecycle.ViewModel() {
     val allCategories = repository.allCategories
 
-    suspend fun insertFlashcard(flashcard: Flashcard) {
-        repository.insert(flashcard)
+    fun insertFlashcard(flashcard: Flashcard) {
+        viewModelScope.launch {
+            repository.insert(flashcard)
+        }
     }
 }
 

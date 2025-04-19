@@ -30,6 +30,11 @@
             android:name="categoryId"
             android:defaultValue="-1"
             app:argType="integer" />
+
+        <argument
+            android:name="categoryName"
+            app:argType="string"
+            android:defaultValue="General" />
     </fragment>
 
 </navigation>

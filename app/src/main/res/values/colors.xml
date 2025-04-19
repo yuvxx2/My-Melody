@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="primary_pink">#FFB6C1</color>
-    <color name="accent_pink">#FF69B4</color>
-    <color name="light_pink">#FFC0CB</color>
-    <color name="white">#FFFFFF</color>
-    <color name="black">#000000</color>
-    <color name="pastel_purple">#D8BFD8</color>
-    <color name="pastel_blue">#ADD8E6</color>
-    <color name="pastel_yellow">#FFFACD</color>
+    <color name="primary_pink">#FF4B8B</color>
+    <color name="primary_pink_dark">#D93D74</color>
+    <color name="primary_pink_light">#FF6FA5</color>
+    <color name="accent_pink">#FF80AB</color>
+    <color name="accent_pink_dark">#CC6687</color>
+    <color name="accent_pink_light">#FFB2DD</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_light">#FFFAFAFA</color>
+    <color name="background_dark">#FF121212</color>
+    <color name="pastel_yellow">#FFFFD485</color>
+    <color name="pastel_purple">#E0B0FF</color>
 </resources>
