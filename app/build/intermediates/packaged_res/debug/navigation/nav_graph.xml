@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_categories">
+
+    <fragment
+        android:id="@+id/navigation_categories"
+        android:name="com.example.melodyflashcards.ui.home.CategoriesFragment"
+        android:label="Categories"
+        tools:layout="@layout/fragment_categories">
+        <action
+            android:id="@+id/action_categories_to_study"
+            app:destination="@id/navigation_study" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_create"
+        android:name="com.example.melodyflashcards.ui.create.CreateFlashcardFragment"
+        android:label="Create"
+        tools:layout="@layout/fragment_create_flashcard" />
+
+    <fragment
+        android:id="@+id/navigation_study"
+        android:name="com.example.melodyflashcards.ui.study.StudyFlashcardsFragment"
+        android:label="Study"
+        tools:layout="@layout/fragment_study_flashcards">
+        <argument
+            android:name="categoryId"
+            android:defaultValue="-1"
+            app:argType="integer" />
+
+        <argument
+            android:name="categoryName"
+            app:argType="string"
+            android:defaultValue="General" />
+    </fragment>
+
+</navigation>

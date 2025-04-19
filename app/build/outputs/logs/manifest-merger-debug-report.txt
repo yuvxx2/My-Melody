@@ -1,0 +1,397 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.databinding:databinding-adapters:8.2.2] C:\Users\Yuven\.gradle\caches\8.10\transforms\7c54e8e3593e3b4d7d3e6b905f76caea\transformed\databinding-adapters-8.2.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-ktx:8.2.2] C:\Users\Yuven\.gradle\caches\8.10\transforms\5d9e54cb3e3ba1f5b653e2e4bf2bd387\transformed\databinding-ktx-8.2.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-runtime:8.2.2] C:\Users\Yuven\.gradle\caches\8.10\transforms\c4992357e6a5df6d13c0b4c6855b7e76\transformed\databinding-runtime-8.2.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:viewbinding:8.2.2] C:\Users\Yuven\.gradle\caches\8.10\transforms\040e51e682924516cb7de6093a008a14\transformed\viewbinding-8.2.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.8.9] C:\Users\Yuven\.gradle\caches\8.10\transforms\0a91f465a736868dd5ccbb97f51486e4\transformed\navigation-common-2.8.9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.9] C:\Users\Yuven\.gradle\caches\8.10\transforms\f07d43164a81586faca55e8ce6e64255\transformed\navigation-common-ktx-2.8.9\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.9] C:\Users\Yuven\.gradle\caches\8.10\transforms\3be6a120a70e2cc133f199695f69fb26\transformed\navigation-runtime-2.8.9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.9] C:\Users\Yuven\.gradle\caches\8.10\transforms\65e5677fb721ae799560274d198ab954\transformed\navigation-runtime-ktx-2.8.9\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment:2.8.9] C:\Users\Yuven\.gradle\caches\8.10\transforms\47695a9090e2279419722a3c1b993715\transformed\navigation-fragment-2.8.9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.9] C:\Users\Yuven\.gradle\caches\8.10\transforms\0307fa6c2b41e8427ff362c024f48f94\transformed\navigation-fragment-ktx-2.8.9\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.9] C:\Users\Yuven\.gradle\caches\8.10\transforms\ac0bc0b3b2f2b94d13e8b41e28787711\transformed\navigation-ui-ktx-2.8.9\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui:2.8.9] C:\Users\Yuven\.gradle\caches\8.10\transforms\d6deec3a4b95313ff0368ef39cb25cda\transformed\navigation-ui-2.8.9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\6c58334e89e0008e7a0815b990c42d58\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\35ad89866d87e938c10999ea150df04c\transformed\constraintlayout-2.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\e0de660602006c84ab803857da96624e\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\0f10ff713856b6087ea8f6c97b69adcb\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\d0f51db4857e0ff13d4bf431a0a2ffde\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\0a7ef73ff4a692c9c3d4417172650fc4\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\d43f55322e574fdf71345b12ca7d0226\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Yuven\.gradle\caches\8.10\transforms\4ec3c374e630954d66c9d8ee085f96ac\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Yuven\.gradle\caches\8.10\transforms\f9472919b71b0df45405fa352705d152\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\92d0ae77c04354aecb4f40053b73ae97\transformed\activity-ktx-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\d99aaeb6aec4dd7e8ac160503694a4ea\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\94e22cceb86cebb66e9860eb62f2a0c3\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\0393aee57a4364d412819f342883ebef\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\28636c9c36b21eb95f427330c340321f\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\68680062ce8bb98f6a77dfd803abd947\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\09c32cf0f94c82f27f01d50d792aed3d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\8af19de6cdd9814abbc0aba721cf6bd3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\6e29c25e8a64113675f6bed3e7261688\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\9be448df98b6b3cc2d90aaf83fafbb08\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\e62e74bd8780f18cc17bdaac2023815b\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\6d4f0949f912fd3c797f872d2fce99f3\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\e6d1f685718f41c109353139654874ee\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\7b4951e857f9f71e9eb1a0cc59c62915\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\f6dc5d17c3b961a3f60f477ad4652652\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.16.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\feb8a05aa7cc87f55a38a49566f98512\transformed\core-1.16.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\238d84a83321be19e00b1a26c6d3bf7c\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\7cd3d4a6e0c213545be3761382faa908\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\ecd6c0f52cc7b212d80e5e63d855cc8f\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\bdeecd00eafb667ab6b470785648a626\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\87f4eb2cfeacf98c1b2272643d68345a\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\8234b572667bfb18d23b1d919f6b5428\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\2fcc183172b29d3776debcf9321978de\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\1aec040ae2540a61e2a20b8176d4ded2\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\caf82e1127cdb50c287ac0486d7efa91\transformed\lifecycle-service-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\19abfe48bb0debf57e071652f02af4f8\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\a544f84e06190b6ee0a4d16d82accd32\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\3a582046846912ededfbe2794c09269d\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\5cc24fc1cc05e84dc4dad8e86f3ee221\transformed\lifecycle-livedata-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\3fb865c98a9ff3a0f67c59e1d8529154\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\b2af265b436b02d606d42c7e7c333044\transformed\core-ktx-1.16.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime-android:2.7.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\d7a5724f8462265f9b33c9b38927f29c\transformed\room-runtime-release\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.7.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\415cb7836d1f4b4ce90a8277e1f805fd\transformed\room-ktx-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\701b4c47da1058b75dca798e37782336\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\cf9b916b4b03e29cac2148b6f243664f\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\7ff54211c96384a7db8bc4a5788559fb\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.sqlite:sqlite-framework-android:2.5.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\29aa6cdd58b0961be398d02d86e67b01\transformed\sqlite-framework-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-android:2.5.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\ff795945b8959273fb0e66bf31e5736e\transformed\sqlite-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\0f0e8fd72d306927f50cd046ce6793b3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\b804a1743c6d3a02a73505296c815b25\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\8e4dbd1c2062c186ce6072967bca3950\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\fe16420198a13d6fc31259a87d03109b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\98f5a452b127024f36564cd85ef1b510\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\7f4e2a6986e37216e2d1f6378b529d91\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\72de36583b73823928559fdd406cf968\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\85511b6995a07d892e5e2fff2f3d87fb\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\3a7d4f69421865fc2672458f3995ebf6\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml:5:5-20:19
+INJECTED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\6c58334e89e0008e7a0815b990c42d58\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\6c58334e89e0008e7a0815b990c42d58\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\35ad89866d87e938c10999ea150df04c\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\35ad89866d87e938c10999ea150df04c\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\0a7ef73ff4a692c9c3d4417172650fc4\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\0a7ef73ff4a692c9c3d4417172650fc4\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\f6dc5d17c3b961a3f60f477ad4652652\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\f6dc5d17c3b961a3f60f477ad4652652\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.16.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\feb8a05aa7cc87f55a38a49566f98512\transformed\core-1.16.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.16.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\feb8a05aa7cc87f55a38a49566f98512\transformed\core-1.16.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\19abfe48bb0debf57e071652f02af4f8\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\19abfe48bb0debf57e071652f02af4f8\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.room:room-runtime-android:2.7.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\d7a5724f8462265f9b33c9b38927f29c\transformed\room-runtime-release\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime-android:2.7.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\d7a5724f8462265f9b33c9b38927f29c\transformed\room-runtime-release\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\7ff54211c96384a7db8bc4a5788559fb\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\7ff54211c96384a7db8bc4a5788559fb\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\fe16420198a13d6fc31259a87d03109b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\fe16420198a13d6fc31259a87d03109b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\feb8a05aa7cc87f55a38a49566f98512\transformed\core-1.16.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml:11:9-54
+activity#com.example.melodyflashcards.MainActivity
+ADDED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml:12:9-19:20
+	android:exported
+		ADDED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:8.2.2] C:\Users\Yuven\.gradle\caches\8.10\transforms\7c54e8e3593e3b4d7d3e6b905f76caea\transformed\databinding-adapters-8.2.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:8.2.2] C:\Users\Yuven\.gradle\caches\8.10\transforms\7c54e8e3593e3b4d7d3e6b905f76caea\transformed\databinding-adapters-8.2.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:8.2.2] C:\Users\Yuven\.gradle\caches\8.10\transforms\5d9e54cb3e3ba1f5b653e2e4bf2bd387\transformed\databinding-ktx-8.2.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:8.2.2] C:\Users\Yuven\.gradle\caches\8.10\transforms\5d9e54cb3e3ba1f5b653e2e4bf2bd387\transformed\databinding-ktx-8.2.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.2.2] C:\Users\Yuven\.gradle\caches\8.10\transforms\c4992357e6a5df6d13c0b4c6855b7e76\transformed\databinding-runtime-8.2.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.2.2] C:\Users\Yuven\.gradle\caches\8.10\transforms\c4992357e6a5df6d13c0b4c6855b7e76\transformed\databinding-runtime-8.2.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.2.2] C:\Users\Yuven\.gradle\caches\8.10\transforms\040e51e682924516cb7de6093a008a14\transformed\viewbinding-8.2.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.2.2] C:\Users\Yuven\.gradle\caches\8.10\transforms\040e51e682924516cb7de6093a008a14\transformed\viewbinding-8.2.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.9] C:\Users\Yuven\.gradle\caches\8.10\transforms\0a91f465a736868dd5ccbb97f51486e4\transformed\navigation-common-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.9] C:\Users\Yuven\.gradle\caches\8.10\transforms\0a91f465a736868dd5ccbb97f51486e4\transformed\navigation-common-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.9] C:\Users\Yuven\.gradle\caches\8.10\transforms\f07d43164a81586faca55e8ce6e64255\transformed\navigation-common-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.9] C:\Users\Yuven\.gradle\caches\8.10\transforms\f07d43164a81586faca55e8ce6e64255\transformed\navigation-common-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.9] C:\Users\Yuven\.gradle\caches\8.10\transforms\3be6a120a70e2cc133f199695f69fb26\transformed\navigation-runtime-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.9] C:\Users\Yuven\.gradle\caches\8.10\transforms\3be6a120a70e2cc133f199695f69fb26\transformed\navigation-runtime-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.9] C:\Users\Yuven\.gradle\caches\8.10\transforms\65e5677fb721ae799560274d198ab954\transformed\navigation-runtime-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.9] C:\Users\Yuven\.gradle\caches\8.10\transforms\65e5677fb721ae799560274d198ab954\transformed\navigation-runtime-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.8.9] C:\Users\Yuven\.gradle\caches\8.10\transforms\47695a9090e2279419722a3c1b993715\transformed\navigation-fragment-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.8.9] C:\Users\Yuven\.gradle\caches\8.10\transforms\47695a9090e2279419722a3c1b993715\transformed\navigation-fragment-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.9] C:\Users\Yuven\.gradle\caches\8.10\transforms\0307fa6c2b41e8427ff362c024f48f94\transformed\navigation-fragment-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.9] C:\Users\Yuven\.gradle\caches\8.10\transforms\0307fa6c2b41e8427ff362c024f48f94\transformed\navigation-fragment-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.9] C:\Users\Yuven\.gradle\caches\8.10\transforms\ac0bc0b3b2f2b94d13e8b41e28787711\transformed\navigation-ui-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.9] C:\Users\Yuven\.gradle\caches\8.10\transforms\ac0bc0b3b2f2b94d13e8b41e28787711\transformed\navigation-ui-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui:2.8.9] C:\Users\Yuven\.gradle\caches\8.10\transforms\d6deec3a4b95313ff0368ef39cb25cda\transformed\navigation-ui-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.8.9] C:\Users\Yuven\.gradle\caches\8.10\transforms\d6deec3a4b95313ff0368ef39cb25cda\transformed\navigation-ui-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\6c58334e89e0008e7a0815b990c42d58\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\6c58334e89e0008e7a0815b990c42d58\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\35ad89866d87e938c10999ea150df04c\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\35ad89866d87e938c10999ea150df04c\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\e0de660602006c84ab803857da96624e\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\e0de660602006c84ab803857da96624e\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\0f10ff713856b6087ea8f6c97b69adcb\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\0f10ff713856b6087ea8f6c97b69adcb\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\d0f51db4857e0ff13d4bf431a0a2ffde\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\d0f51db4857e0ff13d4bf431a0a2ffde\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\0a7ef73ff4a692c9c3d4417172650fc4\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\0a7ef73ff4a692c9c3d4417172650fc4\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\d43f55322e574fdf71345b12ca7d0226\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\d43f55322e574fdf71345b12ca7d0226\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Yuven\.gradle\caches\8.10\transforms\4ec3c374e630954d66c9d8ee085f96ac\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Yuven\.gradle\caches\8.10\transforms\4ec3c374e630954d66c9d8ee085f96ac\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Yuven\.gradle\caches\8.10\transforms\f9472919b71b0df45405fa352705d152\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Yuven\.gradle\caches\8.10\transforms\f9472919b71b0df45405fa352705d152\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\92d0ae77c04354aecb4f40053b73ae97\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\92d0ae77c04354aecb4f40053b73ae97\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\d99aaeb6aec4dd7e8ac160503694a4ea\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\d99aaeb6aec4dd7e8ac160503694a4ea\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\94e22cceb86cebb66e9860eb62f2a0c3\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\94e22cceb86cebb66e9860eb62f2a0c3\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\0393aee57a4364d412819f342883ebef\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\0393aee57a4364d412819f342883ebef\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\28636c9c36b21eb95f427330c340321f\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\28636c9c36b21eb95f427330c340321f\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\68680062ce8bb98f6a77dfd803abd947\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\68680062ce8bb98f6a77dfd803abd947\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\09c32cf0f94c82f27f01d50d792aed3d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\09c32cf0f94c82f27f01d50d792aed3d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\8af19de6cdd9814abbc0aba721cf6bd3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\8af19de6cdd9814abbc0aba721cf6bd3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\6e29c25e8a64113675f6bed3e7261688\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\6e29c25e8a64113675f6bed3e7261688\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\9be448df98b6b3cc2d90aaf83fafbb08\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\9be448df98b6b3cc2d90aaf83fafbb08\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\e62e74bd8780f18cc17bdaac2023815b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\e62e74bd8780f18cc17bdaac2023815b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\6d4f0949f912fd3c797f872d2fce99f3\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\6d4f0949f912fd3c797f872d2fce99f3\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\e6d1f685718f41c109353139654874ee\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\e6d1f685718f41c109353139654874ee\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\7b4951e857f9f71e9eb1a0cc59c62915\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\7b4951e857f9f71e9eb1a0cc59c62915\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\f6dc5d17c3b961a3f60f477ad4652652\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\f6dc5d17c3b961a3f60f477ad4652652\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.16.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\feb8a05aa7cc87f55a38a49566f98512\transformed\core-1.16.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\feb8a05aa7cc87f55a38a49566f98512\transformed\core-1.16.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\238d84a83321be19e00b1a26c6d3bf7c\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\238d84a83321be19e00b1a26c6d3bf7c\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\7cd3d4a6e0c213545be3761382faa908\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\7cd3d4a6e0c213545be3761382faa908\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\ecd6c0f52cc7b212d80e5e63d855cc8f\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\ecd6c0f52cc7b212d80e5e63d855cc8f\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\bdeecd00eafb667ab6b470785648a626\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\bdeecd00eafb667ab6b470785648a626\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\87f4eb2cfeacf98c1b2272643d68345a\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\87f4eb2cfeacf98c1b2272643d68345a\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\8234b572667bfb18d23b1d919f6b5428\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\8234b572667bfb18d23b1d919f6b5428\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\2fcc183172b29d3776debcf9321978de\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\2fcc183172b29d3776debcf9321978de\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\1aec040ae2540a61e2a20b8176d4ded2\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\1aec040ae2540a61e2a20b8176d4ded2\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\caf82e1127cdb50c287ac0486d7efa91\transformed\lifecycle-service-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\caf82e1127cdb50c287ac0486d7efa91\transformed\lifecycle-service-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\19abfe48bb0debf57e071652f02af4f8\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\19abfe48bb0debf57e071652f02af4f8\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\a544f84e06190b6ee0a4d16d82accd32\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\a544f84e06190b6ee0a4d16d82accd32\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\3a582046846912ededfbe2794c09269d\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\3a582046846912ededfbe2794c09269d\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\5cc24fc1cc05e84dc4dad8e86f3ee221\transformed\lifecycle-livedata-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\5cc24fc1cc05e84dc4dad8e86f3ee221\transformed\lifecycle-livedata-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\3fb865c98a9ff3a0f67c59e1d8529154\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\3fb865c98a9ff3a0f67c59e1d8529154\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\b2af265b436b02d606d42c7e7c333044\transformed\core-ktx-1.16.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\b2af265b436b02d606d42c7e7c333044\transformed\core-ktx-1.16.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime-android:2.7.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\d7a5724f8462265f9b33c9b38927f29c\transformed\room-runtime-release\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime-android:2.7.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\d7a5724f8462265f9b33c9b38927f29c\transformed\room-runtime-release\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.7.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\415cb7836d1f4b4ce90a8277e1f805fd\transformed\room-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.7.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\415cb7836d1f4b4ce90a8277e1f805fd\transformed\room-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\701b4c47da1058b75dca798e37782336\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\701b4c47da1058b75dca798e37782336\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\cf9b916b4b03e29cac2148b6f243664f\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\cf9b916b4b03e29cac2148b6f243664f\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\7ff54211c96384a7db8bc4a5788559fb\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\7ff54211c96384a7db8bc4a5788559fb\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework-android:2.5.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\29aa6cdd58b0961be398d02d86e67b01\transformed\sqlite-framework-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.5.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\29aa6cdd58b0961be398d02d86e67b01\transformed\sqlite-framework-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.5.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\ff795945b8959273fb0e66bf31e5736e\transformed\sqlite-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.5.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\ff795945b8959273fb0e66bf31e5736e\transformed\sqlite-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\0f0e8fd72d306927f50cd046ce6793b3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\0f0e8fd72d306927f50cd046ce6793b3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\b804a1743c6d3a02a73505296c815b25\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\b804a1743c6d3a02a73505296c815b25\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\8e4dbd1c2062c186ce6072967bca3950\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\8e4dbd1c2062c186ce6072967bca3950\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\fe16420198a13d6fc31259a87d03109b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\fe16420198a13d6fc31259a87d03109b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\98f5a452b127024f36564cd85ef1b510\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\98f5a452b127024f36564cd85ef1b510\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\7f4e2a6986e37216e2d1f6378b529d91\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\7f4e2a6986e37216e2d1f6378b529d91\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\72de36583b73823928559fdd406cf968\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\72de36583b73823928559fdd406cf968\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\85511b6995a07d892e5e2fff2f3d87fb\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\85511b6995a07d892e5e2fff2f3d87fb\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\3a7d4f69421865fc2672458f3995ebf6\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\3a7d4f69421865fc2672458f3995ebf6\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Yuven\AndroidStudioProjects\My-Melody\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\0a7ef73ff4a692c9c3d4417172650fc4\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\19abfe48bb0debf57e071652f02af4f8\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\19abfe48bb0debf57e071652f02af4f8\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\fe16420198a13d6fc31259a87d03109b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Yuven\.gradle\caches\8.10\transforms\fe16420198a13d6fc31259a87d03109b\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\0a7ef73ff4a692c9c3d4417172650fc4\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\0a7ef73ff4a692c9c3d4417172650fc4\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\0a7ef73ff4a692c9c3d4417172650fc4\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\0a7ef73ff4a692c9c3d4417172650fc4\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\0a7ef73ff4a692c9c3d4417172650fc4\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\0a7ef73ff4a692c9c3d4417172650fc4\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\0a7ef73ff4a692c9c3d4417172650fc4\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\f6dc5d17c3b961a3f60f477ad4652652\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\f6dc5d17c3b961a3f60f477ad4652652\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\f6dc5d17c3b961a3f60f477ad4652652\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\f6dc5d17c3b961a3f60f477ad4652652\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\f6dc5d17c3b961a3f60f477ad4652652\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\f6dc5d17c3b961a3f60f477ad4652652\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\feb8a05aa7cc87f55a38a49566f98512\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\feb8a05aa7cc87f55a38a49566f98512\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\feb8a05aa7cc87f55a38a49566f98512\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+permission#com.example.melodyflashcards.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\feb8a05aa7cc87f55a38a49566f98512\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\feb8a05aa7cc87f55a38a49566f98512\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\feb8a05aa7cc87f55a38a49566f98512\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\feb8a05aa7cc87f55a38a49566f98512\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\feb8a05aa7cc87f55a38a49566f98512\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.melodyflashcards.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\feb8a05aa7cc87f55a38a49566f98512\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\feb8a05aa7cc87f55a38a49566f98512\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\19abfe48bb0debf57e071652f02af4f8\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\19abfe48bb0debf57e071652f02af4f8\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Yuven\.gradle\caches\8.10\transforms\19abfe48bb0debf57e071652f02af4f8\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime-android:2.7.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\d7a5724f8462265f9b33c9b38927f29c\transformed\room-runtime-release\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime-android:2.7.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\d7a5724f8462265f9b33c9b38927f29c\transformed\room-runtime-release\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime-android:2.7.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\d7a5724f8462265f9b33c9b38927f29c\transformed\room-runtime-release\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime-android:2.7.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\d7a5724f8462265f9b33c9b38927f29c\transformed\room-runtime-release\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime-android:2.7.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\d7a5724f8462265f9b33c9b38927f29c\transformed\room-runtime-release\AndroidManifest.xml:25:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Yuven\.gradle\caches\8.10\transforms\2f6d157c636f9d3abad73c65332bf95b\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92

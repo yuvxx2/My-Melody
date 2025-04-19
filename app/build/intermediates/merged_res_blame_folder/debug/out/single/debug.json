@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/menu_bottom_navigation_menu.xml.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/drawable_rounded_button.xml.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/drawable/rounded_button.xml"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/drawable_ic_category.xml.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/drawable/ic_category.xml"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/drawable_ic_study.xml.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/drawable/ic_study.xml"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/drawable_melody_header.xml.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/drawable/melody_header.xml"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/animator_card_flip_back.xml.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/animator/card_flip_back.xml"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/layout_fragment_study_flashcards.xml.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/layout/fragment_study_flashcards.xml"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/animator_card_flip_front.xml.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/animator/card_flip_front.xml"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/drawable_melody_pencil.xml.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/drawable/melody_pencil.xml"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/drawable_card_background.xml.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/drawable/card_background.xml"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/layout_item_category.xml.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/layout/item_category.xml"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/layout_dialog_add_category.xml.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/layout/dialog_add_category.xml"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/layout_activity_main.xml.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/drawable_ic_create.xml.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/drawable/ic_create.xml"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/drawable_melody_footer.xml.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/drawable/melody_footer.xml"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/layout_fragment_create_flashcard.xml.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/layout/fragment_create_flashcard.xml"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.melodyflashcards.app-pngs-53:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/navigation_nav_graph.xml.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.melodyflashcards.app-merged_res-57:/layout_fragment_categories.xml.flat",
+        "source": "com.example.melodyflashcards.app-main-59:/layout/fragment_categories.xml"
+    }
+]
