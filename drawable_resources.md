@@ -37,7 +37,7 @@ To achieve the cute My Melody/Hello Kitty aesthetic, you'll need to create or do
 </vector>
 ```
 
-2. **melody_footer.xml** - A vector drawable for the app footer
+1. **melody_footer.xml** - A vector drawable for the app footer
 ```xml
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="120dp"
@@ -59,7 +59,7 @@ To achieve the cute My Melody/Hello Kitty aesthetic, you'll need to create or do
 </vector>
 ```
 
-3. **melody_pencil.xml** - A vector drawable for the create card screen
+1. **melody_pencil.xml** - A vector drawable for the create card screen
 ```xml
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="100dp"
@@ -93,7 +93,7 @@ To achieve the cute My Melody/Hello Kitty aesthetic, you'll need to create or do
 </shape>
 ```
 
-2. **card_background.xml** - A drawable for flashcard backgrounds
+1. **card_background.xml** - A drawable for flashcard backgrounds
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
@@ -125,7 +125,7 @@ To achieve the cute My Melody/Hello Kitty aesthetic, you'll need to create or do
 </set>
 ```
 
-2. **card_flip_back.xml** - Animation for flipping the card back
+1. **card_flip_back.xml** - Animation for flipping the card back
 ```xml
 <set xmlns:android="http://schemas.android.com/apk/res/android">
     <objectAnimator
@@ -157,7 +157,7 @@ To achieve the cute My Melody/Hello Kitty aesthetic, you'll need to create or do
 </vector>
 ```
 
-2. **ic_create.xml** - Create flashcard icon
+1. **ic_create.xml** - Create flashcard icon
 ```xml
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp"
@@ -170,7 +170,7 @@ To achieve the cute My Melody/Hello Kitty aesthetic, you'll need to create or do
 </vector>
 ```
 
-3. **ic_category.xml** - Categories icon
+1. **ic_category.xml** - Categories icon
 ```xml
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp"

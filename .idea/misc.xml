@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <pattern value="com.example.melodyflashcards.ui.home.CategoriesFragment" />
+    <pattern value="com.example.melodyflashcards.ui.home.CategoriesFragment" method="onCreateView" />
+    <pattern value="com.example.melodyflashcards.ui.home.CategoriesFragmentDirections" />
+    <pattern value="com.example.melodyflashcards.ui.home.CategoriesFragmentDirections.Companion" />
+    <pattern value="com.example.melodyflashcards.ui.home.CategoriesViewModel" />
+    <pattern value="com.example.melodyflashcards.ui.home.CategoriesViewModel" method="CategoriesViewModel" />
+    <pattern value="com.example.melodyflashcards.ui.home.CategoriesViewModelFactory" />
+    <pattern value="com.example.melodyflashcards.ui.home.CategoriesViewModelFactory" method="CategoriesViewModelFactory" />
+    <pattern value="com.example.melodyflashcards.ui.home.CategoriesViewModelFactory" method="create" />
+    <pattern value="com.example.melodyflashcards.ui.home.CategoryAdapter" />
+    <pattern value="com.example.melodyflashcards.ui.home.CategoryAdapter" method="CategoryAdapter" />
+    <pattern value="com.example.melodyflashcards.ui.home.CategoryAdapter.CategoryViewHolder" />
+    <pattern value="com.example.melodyflashcards.ui.home.CategoryAdapter.CategoryViewHolder" method="CategoryViewHolder" />
+    <pattern value="com.example.melodyflashcards.ui.home.CategoryAdapter" method="getItemCount" />
+    <pattern value="com.example.melodyflashcards.ui.home.CategoryAdapter" method="onBindViewHolder" />
+    <pattern value="com.example.melodyflashcards.ui.home.CategoryAdapter" method="onCreateViewHolder" />
+    <pattern value="com.example.melodyflashcards.ui.create.CreateFlashcardFragment" />
+    <pattern value="com.example.melodyflashcards.ui.create.CreateFlashcardFragment" method="onCreateView" />
+    <pattern value="com.example.melodyflashcards.ui.create.CreateFlashcardViewModel" />
+    <pattern value="com.example.melodyflashcards.ui.create.CreateFlashcardViewModel" method="CreateFlashcardViewModel" />
+    <pattern value="com.example.melodyflashcards.ui.create.CreateFlashcardViewModelFactory" method="create" />
+    <pattern value="com.example.melodyflashcards.ui.create.CreateFlashcardViewModelFactory" />
+    <pattern value="com.example.melodyflashcards.ui.create.CreateFlashcardViewModelFactory" method="CreateFlashcardViewModelFactory" />
+    <pattern value="com.example.melodyflashcards.data.Flashcard" />
+    <pattern value="com.example.melodyflashcards.data.Flashcard" method="Flashcard" />
+    <pattern value="com.example.melodyflashcards.data.FlashcardDatabase.Companion" />
+    <pattern value="com.example.melodyflashcards.data.FlashcardDatabase" />
+    <pattern value="com.example.melodyflashcards.data.FlashcardRepository" method="delete" />
+    <pattern value="com.example.melodyflashcards.data.FlashcardRepository" />
+    <pattern value="com.example.melodyflashcards.data.FlashcardRepository" method="FlashcardRepository" />
+    <pattern value="com.example.melodyflashcards.data.FlashcardRepository" method="getFlashcardCountByCategory" />
+    <pattern value="com.example.melodyflashcards.data.FlashcardRepository" method="update" />
+    <pattern value="com.example.melodyflashcards.MainActivity" />
+    <pattern value="com.example.melodyflashcards.MainActivity" method="onCreate" />
+    <pattern value="com.example.melodyflashcards.ui.study.StudyFlashcardsFragment" method="onCreateView" />
+    <pattern value="com.example.melodyflashcards.ui.study.StudyFlashcardsFragment" />
+    <pattern value="com.example.melodyflashcards.ui.home.StudyFlashcardsFragmentArgs.Companion" />
+    <pattern value="com.example.melodyflashcards.ui.home.StudyFlashcardsFragmentArgs.Companion" method="fromBundle" />
+    <pattern value="com.example.melodyflashcards.ui.home.StudyFlashcardsFragmentArgs" />
+    <pattern value="com.example.melodyflashcards.ui.home.StudyFlashcardsFragmentArgs" method="StudyFlashcardsFragmentArgs" />
+    <pattern value="com.example.melodyflashcards.ui.study.StudyFlashcardsViewModel" />
+    <pattern value="com.example.melodyflashcards.ui.study.StudyFlashcardsViewModel" method="StudyFlashcardsViewModel" />
+    <pattern value="com.example.melodyflashcards.ui.study.StudyFlashcardsViewModelFactory" method="create" />
+    <pattern value="com.example.melodyflashcards.ui.study.StudyFlashcardsViewModelFactory" />
+    <pattern value="com.example.melodyflashcards.ui.study.StudyFlashcardsViewModelFactory" method="StudyFlashcardsViewModelFactory" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
